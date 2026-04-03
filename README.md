@@ -1,3 +1,7 @@
+> **🔥 [AI通道](https://aitongdao.com) — Claude Code & Codex 中转服务，满血 Opus 4.6 纯原装直连，国内免翻墙低延迟，按量付费 1 人民币 = 1 美元额度。**
+
+---
+
 # claude-code-source
 
 从 `@anthropic-ai/claude-code` npm 包完整还原的 Claude Code 源码项目。**无功能阉割** — 所有 native 模块、内部依赖、类型定义均已完整恢复，可直接在本地启动运行。
